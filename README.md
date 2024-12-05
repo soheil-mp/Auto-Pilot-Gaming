@@ -8,7 +8,7 @@
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-Latest-orange?style=for-the-badge)](https://gymnasium.farama.org/)
 
 <p align="center">
-    <em>Train AI agents to master Atari games using deep reinforcement learning! 🚀</em>
+    <em>A deep reinforcement learning framework for training AI agents in classic control and Atari environments. 🚀</em>
 </p>
 
 [Features](#features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
